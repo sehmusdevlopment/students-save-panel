@@ -1,0 +1,16 @@
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\bin\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.exe
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\bin\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.deps.json
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\bin\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.runtimeconfig.json
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\bin\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.dll
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\bin\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.pdb
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci_Kayıt_ve_Listeleme_Uygulaması.öğrencikayıt.resources
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.csproj.GenerateResource.cache
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.AssemblyInfoInputs.cache
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.AssemblyInfo.cs
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.dll
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\refint\Öğrenci Kayıt ve Listeleme Uygulaması.dll
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.pdb
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\Öğrenci Kayıt ve Listeleme Uygulaması.genruntimeconfig.cache
+C:\Users\SARP\source\repos\Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması\obj\Debug\net9.0-windows\ref\Öğrenci Kayıt ve Listeleme Uygulaması.dll

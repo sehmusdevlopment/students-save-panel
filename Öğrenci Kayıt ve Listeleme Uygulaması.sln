@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Öğrenci Kayıt ve Listeleme Uygulaması", "Öğrenci Kayıt ve Listeleme Uygulaması\Öğrenci Kayıt ve Listeleme Uygulaması.csproj", "{F72B5CC3-3372-4D0B-A582-07C818A3DD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72B5CC3-3372-4D0B-A582-07C818A3DD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72B5CC3-3372-4D0B-A582-07C818A3DD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72B5CC3-3372-4D0B-A582-07C818A3DD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72B5CC3-3372-4D0B-A582-07C818A3DD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8461A91-7A6E-46E6-8BC0-BF094E7A16FA}
+	EndGlobalSection
+EndGlobal
