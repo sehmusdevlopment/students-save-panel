@@ -12,11 +12,11 @@ Bu proje, C# Windows Forms kullanılarak geliştirilmiş temel bir öğrenci kay
 
 ## 🖼️ Ekran Görüntüleri
 
-### Giriş ve Kayıt Ekranı  
-![Giriş Ekranı](öğrenci%20kayıt%20programı1.png)
+### Kod ve form ekranı  
+![kod ekranı](öğrenci%20kayıt%20programı1.png)
 
-### Kayıt Listeleme ve Silme  
-![Listeleme Ekranı](öğrenci%20kayıt%20programı2.png)
+### Form ekranı  
+![Form ekranı](öğrenci%20kayıt%20programı2.png)
 
 > Not: Görsellerin doğru görünmesi için bu dosyayı resimlerle aynı klasöre koyunuz.
 
